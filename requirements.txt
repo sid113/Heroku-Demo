@@ -1,6 +1,6 @@
 
 
-opencv-python==4.2.0.34
+opencv-python==4.2.0.32
 keras==2.3.1
 astor==0.8.1
 click==7.1.1
