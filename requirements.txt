@@ -237,7 +237,7 @@ wapiti3==3.0.1
 wcwidth==0.1.8
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wfuzz==2.3.3
 wrapt==1.12.1
 wsproto==0.11.0
