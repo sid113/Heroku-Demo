@@ -1,7 +1,7 @@
 from __future__ import division, print_function
 from flask import Flask, flash, request, redirect, url_for, render_template
 from werkzeug.utils import secure_filename
-import cv2
+
 import warnings
 warnings.filterwarnings("ignore")
 from PIL import Image
